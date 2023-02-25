@@ -6,4 +6,4 @@ we have asked AI over 1000 of questions including Computer Science, Cybersecurit
 You can see the raw answers by AI.
 Also you can ask AI any question privately.
 
-![alt text](Isolated.png "Title")
+![alt text](333530869_236435448740068_3224993058210575176_n.jpg "Chatgpt on discord")
